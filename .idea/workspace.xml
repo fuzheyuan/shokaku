@@ -5,254 +5,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84adb1bf-076a-4b57-a200-b6217e7a389f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/data/ListNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/data/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/ArrayPartitionI/ArrayPartitionI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/AverageOfLevelsInBinaryTree/AverageOfLevelsInBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/BaseballGame/BaseballGame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/BinaryGap/BinaryGap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/CousinsInBinaryTree/CousinsInBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/DIStringMatch/DIStringMatch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/DeleteColumnsToMakeSorted/DeleteColumnsToMakeSorted.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/DeleteNodeInALinkedList/DeleteNodeInALinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/DesignHashMap/DesignHashMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/DesignHashSet/MyHashSet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/DetectCapital/DetectCapital.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/DistributeCandies/DistributeCandies.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/DivisorGame/DivisorGame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/FairCandySwap/FairCandySwap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/FibonacciNumber/FibonacciNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/FindAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/FindCommonCharacters/FindCommonCharacters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/FindTheDifference/FindTheDifference.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/GoatLatin/GoatLatin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/GroupsOfSpecialEquivalentStrings/GroupsOfSpecialEquivalentStrings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/IncreasingOrderSearchTree/IncreasingOrderSearchTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/IntersectionOfTwoArrays/IntersectionOfTwoArrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/InvertBinaryTree/InvertBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/IslandPerimeter/IslandPerimeter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/LargestPerimeterTriangle/LargestPerimeterTriangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/LargestTriangleArea/LargestTriangleArea.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/LeafSimilarTrees/LeafSimilarTrees.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/LetterCasePermutation/LetterCasePermutation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/LongestUncommonSubsequenceI/LongestUncommonSubsequenceI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/MajorityElement/MajorityElement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/MaxConsecutiveOnes/MaxConsecutiveOnes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/MaximumDepthOfNaryTree/MaximumDepthOfNaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/MiddleOfTheLinkedList/MiddleOfTheLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/MonotonicArray/MonotonicArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/MoveZeroes/MoveZeroes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/NaryTreeLevelOrderTraversal/NaryTreeLevelOrderTraversal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/NaryTreePostorderTraversal/NaryTreePostorderTraversal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/NaryTreePreorderTraversal/NaryTreePreorderTraversal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/NextGreaterElementI/NextGreaterElementI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/NimGame/NimGame.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/NumberComplement/NumberComponent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/NumberOfRecentCalls/NumberOfRecentCalls.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/NumberofLinesToWriteString/NumberofLinesToWriteString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/PartitionArrayIntoThreePartsWithEqualSum/PartitionArrayIntoThreePartsWithEqualSum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/ProjectionAreaOf3DShapes/ProjectionAreaOf3DShapes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/ReorderLogFiles/ReorderLogFiles.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/ReshapeTheMatrix/ReshapeTheMatrix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/ReverseLinkedList/ReverseLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/ReverseOnlyLetters/ReverseOnlyLetters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/ReverseString/ReverseString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/ReverseWordsInAStringIII/ReverseWordsInAStringIII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/SearchInABinarySearchTree/SearchInABinarySearchTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/ShortestCompletingWord/ShortestCompletingWord.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/ShortestDistanceToACharacter/ShortestDistanceToACharacter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/SingleNumber/SingleNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/SmallestRangeI/SmallestRangeI.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/SortArrayByParityII/SortArrayByParityII.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/SubdomainVisitCount/SubdomainVisitCount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/SumofEvenNumbersAfterQueries/SumofEvenNumbersAfterQueries.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/SurfaceAreaOf3DShapes/SurfaceAreaOf3DShapes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/ToeplitzMatrix/ToeplitzMatrix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/TransposeMatrix/TransposeMatrix.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/TrimABinarySearchTree/TrimABinarySearchTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/TwoSumIVInputIsABST/TwoSumIVInputIsABST.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/UncommonWordsFromTwoSentences/UncommonWordsFromTwoSentences.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/UnivaluedBinaryTree/UnivaluedBinaryTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/ValidAnagram/ValidAnagram.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/utils/ArrayUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/utils/StringUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/data/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/data/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ArrayPartitionI/ArrayPartitionI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/AverageOfLevelsInBinaryTree/AverageOfLevelsInBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/BackspaceStringCompare/BackspaceStringCompare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/BalancedBinaryTree/BalancedBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/BaseballGame/BaseballGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/BestTimeToBuyAndSellStockII/BestTimeToBuyAndSellStockII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/BestTimetoBuyandSellStock/BestTimetoBuyandSellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/BinaryGap/BinaryGap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/BinarySearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/BinaryTreeLevelOrderTraversalII/BinaryTreeLevelOrderTraversalII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/BinaryTreePaths/BinaryTreePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/BinaryTreeTilt/BinaryTreeTilt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ClimbingStairs/ClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ConstructStringFromBinaryTree/ConstructStringFromBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ConstructTheRectangle/ConstructTheRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ContainsDuplicate/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ContainsDuplicateII/ContainsDuplicateII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ConvertBSTToGreaterTree/ConvertBSTToGreaterTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/CountPrimes/CountPrimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/CousinsInBinaryTree/CousinsInBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/DegreeOfAnArray/DegreeOfAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/DeleteNodeInALinkedList/DeleteNodeInALinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/DesignHashMap/DesignHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/DesignHashSet/MyHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/DetectCapital/DetectCapital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/DiameterofBinaryTree/DiameterofBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/DistributeCandies/DistributeCandies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/DivisorGame/DivisorGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/FairCandySwap/FairCandySwap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/FibonacciNumber/FibonacciNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/FindAllAnagramsinaString/FindAllAnagramsinaString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/FindAllNumbersDisappearedInAnArray/FindAllNumbersDisappearedInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/FindCommonCharacters/FindCommonCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/FindModeinBinarySearchTree/FindModeinBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/FindPivotIndex/FindPivotIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/FindSmallestLetterGreaterThanTarget/FindSmallestLetterGreaterThanTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/FindTheDifference/FindTheDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/FirstUniqueCharacterInAString/FirstUniqueCharacterInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/GoatLatin/GoatLatin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/GroupsOfSpecialEquivalentStrings/GroupsOfSpecialEquivalentStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/Heaters/Heaters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/HouseRobber/HouseRobber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ImplementstrStr/ImplementstrStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/IncreasingOrderSearchTree/IncreasingOrderSearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/IntersectionOfTwoArrays/IntersectionOfTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/IntersectionofTwoArraysII/IntersectionofTwoArraysII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/InvertBinaryTree/InvertBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/IslandPerimeter/IslandPerimeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/KdiffPairsinanArray/KdiffPairsinanArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/KthLargestElementinaStream/KthLargestElementinaStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/LargestNumberAtLeastTwiceofOthers/LargestNumberAtLeastTwiceofOthers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/LargestPerimeterTriangle/LargestPerimeterTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/LargestTriangleArea/LargestTriangleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/LeafSimilarTrees/LeafSimilarTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/LengthofLastWord/LengthofLastWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/LetterCasePermutation/LetterCasePermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/LinkedListCycle/LinkedListCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/LongPressedName/LongPressedName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/LongestCommonPrefix/LongestCommonPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/LongestContinuousIncreasingSubsequence/LongestContinuousIncreasingSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/LongestHarmoniousSubsequence/LongestHarmoniousSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/LongestPalindrome/LongestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/LongestUncommonSubsequenceI/LongestUncommonSubsequenceI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/LongestUnivaluePath/LongestUnivaluePath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/LongestWordinDictionary/LongestWordinDictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/LowestCommonAncestorofaBinarySearchTree/LowestCommonAncestorofaBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MagicSquaresInGrid/MagicSquaresInGrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MajorityElement/MajorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MaxConsecutiveOnes/MaxConsecutiveOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MaximizeDistancetoClosestPerson/MaximizeDistancetoClosestPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MaximizeSumOfArrayAfterKNegations/MaximizeSumOfArrayAfterKNegations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MaximumAverageSubarrayI/MaximumAverageSubarrayI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MaximumDepthOfBinaryTree/MaximumDepthOfBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MaximumDepthOfNaryTree/MaximumDepthOfNaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MaximumProductofThreeNumbers/MaximumProductofThreeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MaximumSubarray/MaximumSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MergeSortedArray/MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MergeTwoSortedLists/MergeTwoSortedLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MiddleOfTheLinkedList/MiddleOfTheLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MinCostClimbingStairs/MinCostClimbingStairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MinimumDepthofBinaryTree/MinimumDepthofBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MinimumDistanceBetweenBSTNodes/MinimumDistanceBetweenBSTNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MinimumIndexSumofTwoLists/MinimumIndexSumofTwoLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MinimumMovesToEqualArrayElements/MinimumMovesToEqualArrayElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MissingNumber/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MonotonicArray/MonotonicArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MostCommonWord/MostCommonWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MoveZeroes/MoveZeroes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/NaryTreeLevelOrderTraversal/NaryTreeLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/NaryTreePostorderTraversal/NaryTreePostorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/NaryTreePreorderTraversal/NaryTreePreorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/NextGreaterElementI/NextGreaterElementI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/NimGame/NimGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/NondecreasingArray/NondecreasingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/NthDigit/NthDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/NumberComplement/NumberComponent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/NumberofLinesToWriteString/NumberofLinesToWriteString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/NumberofSegmentsinaString/NumberofSegmentsinaString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/PalindromeLinkedList/PalindromeLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/PalindromeNumber/PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/PartitionArrayIntoThreePartsWithEqualSum/PartitionArrayIntoThreePartsWithEqualSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/PascalsTriangle/PascalsTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/PascalsTriangleII/PascalsTriangleII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/PathSum/PathSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/PathSumIII/PathSumIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/PerfectNumber/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/PlusOne/PlusOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/PositionsofLargeGroups/PositionsofLargeGroups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ProjectionAreaOf3DShapes/ProjectionAreaOf3DShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/RangeAdditionII/RangeAdditionII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ReachaNumber/ReachaNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/RemoveDuplicatesfromSortedList/RemoveDuplicatesfromSortedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/RemoveElement/RemoveElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/RemoveLinkedListElements/RemoveLinkedListElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ReorderLogFiles/ReorderLogFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/RepeatedStringMatch/RepeatedStringMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ReshapeTheMatrix/ReshapeTheMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ReverseBits/ReverseBits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ReverseInteger/ReverseInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ReverseLinkedList/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ReverseOnlyLetters/ReverseOnlyLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ReverseString/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ReverseStringII/ReverseStringII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ReverseWordsInAStringIII/ReverseWordsInAStringIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/RotateArray/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/RotateString/RotateString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/SameTree/SameTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/SearchInABinarySearchTree/SearchInABinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/SearchInsertPosition/SearchInsertPosition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/SecondMinimumNodeInaBinaryTree/SecondMinimumNodeInaBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/SetMismatch/SetMismatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ShortestCompletingWord/ShortestCompletingWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ShortestDistanceToACharacter/ShortestDistanceToACharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ShortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/SingleNumber/SingleNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/SmallestRangeI/SmallestRangeI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/SortArrayByParityII/SortArrayByParityII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/Sqrtx/Sqrtx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/SubdomainVisitCount/SubdomainVisitCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/SubtreeofAnotherTree/SubtreeofAnotherTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/SumOfLeftLeaves/SumOfLeftLeaves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/SumOfRootToLeafBinaryNumbers/SumOfRootToLeafBinaryNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/SumofEvenNumbersAfterQueries/SumofEvenNumbersAfterQueries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/SumofSquareNumbers/SumofSquareNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/SurfaceAreaOf3DShapes/SurfaceAreaOf3DShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/SymmetricTree/SymmetricTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ThirdMaximumNumber/ThirdMaximumNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ToeplitzMatrix/ToeplitzMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/TransposeMatrix/TransposeMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/TrimABinarySearchTree/TrimABinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/TwoSum/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/TwoSumIIInputArrayIssorted/TwoSumIIInputArrayIssorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/TwoSumIVInputIsABST/TwoSumIVInputIsABST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/UglyNumber/UglyNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/UncommonWordsFromTwoSentences/UncommonWordsFromTwoSentences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/UnivaluedBinaryTree/UnivaluedBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ValidAnagram/ValidAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ValidMountainArray/ValidMountainArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ValidPalindrome/ValidPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ValidPalindromeII/ValidPalindromeII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ValidParentheses/ValidParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ValidPerfectSquare/ValidPerfectSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/WordPattern/WordPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/utils/ArrayUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/utils/ListNodeUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/azure/lane/utils/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/ExtendAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/FutureTaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/NewTestInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/TestAbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/TestClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/TestInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/TestInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/generic/FruitGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/generic/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/generic/Generic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/generic/GenericTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/proxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/proxy/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/proxy/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/proxy/UserServiceProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/proxy/dynamic/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/proxy/dynamic/LogHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/reflect/ReflectClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/reflect/ReflectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/java/threadlocal/ThreadLocalTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/AllPathsFromSourcetoTarget/AllPathsFromSourcetoTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/AllPossibleFullBinaryTrees/AllPossibleFullBinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/BinarySearchTreetoGreaterSumTree/BinarySearchTreetoGreaterSumTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/BinaryStringWithSubstringsRepresenting1ToN/BinaryStringWithSubstringsRepresenting1ToN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/BinaryTreePruning/BinaryTreePruning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ConstructBinarySearchTreefromPreorderTraversal/ConstructBinarySearchTreefromPreorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/ConstructBinaryTreefromPreorderandPostorderTraversal/ConstructBinaryTreefromPreorderandPostorderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/CountingBits/CountingBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/DistributeCoinsinBinaryTree/DistributeCoinsinBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/FindBottomLeftTreeValue/FindBottomLeftTreeValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/FindandReplacePattern/FindandReplacePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/FlipEquivalentBinaryTrees/FlipEquivalentBinaryTrees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/InsertintoaBinarySearchTree/InsertintoaBinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/IntervalListIntersections/IntervalListIntersections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/KClosestPointstoOrigin/KClosestPointstoOrigin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/LowestCommonAncestorofDeepestLeaves/LowestCommonAncestorofDeepestLeaves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MaxIncreasetoKeepCitySkyline/MaxIncreasetoKeepCitySkyline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MaximumBinaryTree/MaximumBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MaximumSwap/MaximumSwap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/MinimumAddtoMakeParenthesesValid/MinimumAddtoMakeParenthesesValid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/PartitionLabels/PartitionLabels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/PrimalNumberLoop/PrimalNumberLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/QuickSort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/RevealCardsInIncreasingOrder/RevealCardsInIncreasingOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/azure/lane/solutions/SpiralMatrixIII/SpiralMatrixIII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/DIStringMatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/shokaku/azure/lane/utils/PrintUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/utils/PrintUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/azure/lane/utils/PrintUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/azure/lane/utils/PrintUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/CountPrimes/CountPrimes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/shokaku/azure/lane/solutions/CountPrimes/CountPrimes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/azure/lane/solutions/NondecreasingArray/NondecreasingArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/azure/lane/solutions/NondecreasingArray/NondecreasingArray.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -265,35 +65,43 @@
     <session id="-1394768285">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.47" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="211" />
+          <entry key="java" value="309" />
+          <entry key="kt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="211" />
+          <entry key="JAVA" value="309" />
+          <entry key="Kotlin" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="80411" />
+          <entry key="java" value="98840" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="80411" />
+          <entry key="JAVA" value="98840" />
         </counts>
       </usages-collector>
     </session>
@@ -301,91 +109,112 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/ReverseBits/ReverseBits.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/ValidPalindrome/ValidPalindrome.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="23" column="28" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="23" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/NthDigit/NthDigit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="41" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/ShortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/RotateArray/RotateArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/KdiffPairsinanArray/KdiffPairsinanArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/ThirdMaximumNumber/ThirdMaximumNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/NondecreasingArray/NondecreasingArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="3916">
+              <caret line="222" column="19" selection-start-line="222" selection-start-column="19" selection-end-line="222" selection-end-column="19" />
+              <folding>
+                <element signature="e#7116#7117#0" expanded="true" />
+                <element signature="e#7150#7151#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/CountPrimes/CountPrimes.java">
+        <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/MaximumSwap/MaximumSwap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+            <state relative-caret-position="352">
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/CharSequence.java">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+            <state relative-caret-position="21362">
+              <caret line="1023" column="8" selection-start-line="1023" selection-start-column="8" selection-end-line="1023" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82082">
+              <caret line="3804" column="7" selection-start-line="3804" selection-start-column="7" selection-end-line="3804" selection-end-column="7" />
+              <folding>
+                <element signature="e#177353#177354#0" expanded="true" />
+                <element signature="e#177410#177411#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1034">
+              <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/SpiralMatrixIII/SpiralMatrixIII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1430">
+              <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/QuickSort/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/IntervalListIntersections/IntervalListIntersections.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/ConstructBinaryTreefromPreorderandPostorderTraversal/ConstructBinaryTreefromPreorderandPostorderTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="616">
+              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+              <folding>
+                <element signature="e#881#882#0" expanded="true" />
+                <element signature="e#908#909#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/FindBottomLeftTreeValue/FindBottomLeftTreeValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -395,6 +224,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -402,7 +233,18 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>..-</find>
+      <find>sort</find>
+      <find>sort(</find>
+      <find>threadLocals</find>
+      <find>threadlocals</find>
+      <find>set</find>
+      <find>close</find>
+      <find>asList</find>
+      <find>subList</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -410,57 +252,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/SubtreeofAnotherTree/SubtreeofAnotherTree.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/PlusOne/PlusOne.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/FindPivotIndex/FindPivotIndex.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/HouseRobber/HouseRobber.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/BalancedBinaryTree/BalancedBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/MaximizeDistancetoClosestPerson/MaximizeDistancetoClosestPerson.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/SearchInsertPosition/SearchInsertPosition.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/SetMismatch/SetMismatch.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/UglyNumber/UglyNumber.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/LargestNumberAtLeastTwiceofOthers/LargestNumberAtLeastTwiceofOthers.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/ValidPerfectSquare/ValidPerfectSquare.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/MaximumAverageSubarrayI/MaximumAverageSubarrayI.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/FindModeinBinarySearchTree/FindModeinBinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/PathSum/PathSum.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/FindAllAnagramsinaString/FindAllAnagramsinaString.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/NumberofSegmentsinaString/NumberofSegmentsinaString.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/LinkedListCycle/LinkedListCycle.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/ValidParentheses/ValidParentheses.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/utils/PrintUtils.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/utils/ListNodeUtils.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/PalindromeLinkedList/PalindromeLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/RemoveLinkedListElements/RemoveLinkedListElements.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/MergeSortedArray/MergeSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/MagicSquaresInGrid/MagicSquaresInGrid.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/MinimumDepthofBinaryTree/MinimumDepthofBinaryTree.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/ContainsDuplicateII/ContainsDuplicateII.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/ValidMountainArray/ValidMountainArray.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/WordPattern/WordPattern.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/PerfectNumber/PerfectNumber.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/ValidPalindromeII/ValidPalindromeII.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/LongestUnivaluePath/LongestUnivaluePath.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/LongestCommonPrefix/LongestCommonPrefix.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/SumofSquareNumbers/SumofSquareNumbers.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/ReachaNumber/ReachaNumber.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/ReverseInteger/ReverseInteger.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/LengthofLastWord/LengthofLastWord.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/ImplementstrStr/ImplementstrStr.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/Heaters/Heaters.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/RepeatedStringMatch/RepeatedStringMatch.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/Sqrtx/Sqrtx.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/ReverseBits/ReverseBits.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/ValidPalindrome/ValidPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/NthDigit/NthDigit.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/ShortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/RotateArray/RotateArray.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/KdiffPairsinanArray/KdiffPairsinanArray.java" />
         <option value="$PROJECT_DIR$/src/azure/lane/solutions/ThirdMaximumNumber/ThirdMaximumNumber.java" />
-        <option value="$PROJECT_DIR$/src/azure/lane/solutions/NondecreasingArray/NondecreasingArray.java" />
         <option value="$PROJECT_DIR$/src/azure/lane/solutions/CountPrimes/CountPrimes.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/MaxIncreasetoKeepCitySkyline/MaxIncreasetoKeepCitySkyline.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/BinarySearchTreetoGreaterSumTree/BinarySearchTreetoGreaterSumTree.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/MaximumBinaryTree/MaximumBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/InsertintoaBinarySearchTree/InsertintoaBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/ConstructBinarySearchTreefromPreorderTraversal/ConstructBinarySearchTreefromPreorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/RevealCardsInIncreasingOrder/RevealCardsInIncreasingOrder.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/FindandReplacePattern/FindandReplacePattern.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/BinaryTreePruning/BinaryTreePruning.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/AllPossibleFullBinaryTrees/AllPossibleFullBinaryTrees.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/AllPathsFromSourcetoTarget/AllPathsFromSourcetoTarget.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/PartitionLabels/PartitionLabels.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/MinimumAddtoMakeParenthesesValid/MinimumAddtoMakeParenthesesValid.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/DistributeCoinsinBinaryTree/DistributeCoinsinBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/FlipEquivalentBinaryTrees/FlipEquivalentBinaryTrees.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/CountingBits/CountingBits.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/KClosestPointstoOrigin/KClosestPointstoOrigin.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/BinaryStringWithSubstringsRepresenting1ToN/BinaryStringWithSubstringsRepresenting1ToN.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/FutureTaskTest.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/FutureTaskTest.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/Generic.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/generic/Generic.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/generic/Generator.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/generic/FruitGenerator.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/generic/GenericTest.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/TestInterface.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/TestInterfaceImpl.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/NewTestInterface.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/generic/TestAbstractClass.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/TestAbstractClass.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/ExtendAbstractClass.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/reflect/ReflectClass.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/reflect/ReflectTest.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/proxy/staticc/UserService.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/proxy/staticc/UserServiceProxy.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/proxy/staticc/Client.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/proxy/staticc/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/proxy/dynamic/LogHandler.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/proxy/dynamic/Client2.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/TestClient.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/java/threadlocal/ThreadLocalTest.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/PrimalNumberLoop/PrimalNumberLoop.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/NondecreasingArray/NondecreasingArray.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/LowestCommonAncestorofDeepestLeaves/LowestCommonAncestorofDeepestLeaves.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/SpiralMatrixIII/SpiralMatrixIII.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/QuickSort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/IntervalListIntersections/IntervalListIntersections.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/ConstructBinaryTreefromPreorderandPostorderTraversal/ConstructBinaryTreefromPreorderandPostorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/FindBottomLeftTreeValue/FindBottomLeftTreeValue.java" />
+        <option value="$PROJECT_DIR$/src/azure/lane/solutions/MaximumSwap/MaximumSwap.java" />
       </list>
     </option>
   </component>
@@ -470,11 +312,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="51" />
-    <option name="y" value="23" />
-    <option name="width" value="1389" />
-    <option name="height" value="877" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-254" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -484,9 +326,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -510,21 +352,54 @@
               <item name="shokaku" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lane" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shokaku" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shokaku" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lane" type="462c0819:PsiDirectoryNode" />
               <item name="solutions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shokaku" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shokaku" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lane" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="shokaku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="shokaku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shokaku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shokaku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shokaku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shokaku" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -533,9 +408,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="Reen&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java&#10;Arrays&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Arrays.java&#10;List&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/ArrayList.java&#10;ReentrantLock&#9;PSI&#9;JAVA://java.util.concurrent.locks.ReentrantLock&#10;ThreadPool&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;Thread&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Thread.java&#10;ExecutorService&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;HashMap&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/HashMap.java&#10;ConcurrentHashMap&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Collections&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Collections.java&#10;String&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java&#10;ArrayList&#9;PSI&#9;JAVA://java.util.ArrayList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558488093014" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562120560297" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -553,13 +429,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountPrimes">
-    <configuration name="CountPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="azure.lane.solutions.CountPrimes.CountPrimes" />
+  <component name="RunManager" selected="Application.TestClient">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="azure.lane.java.proxy.Client" />
       <module name="shokaku" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="azure.lane.solutions.CountPrimes.*" />
+          <option name="PATTERN" value="azure.lane.java.proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -567,12 +443,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NthDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="azure.lane.solutions.NthDigit.NthDigit" />
+    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="azure.lane.java.proxy.dynamic.Client2" />
       <module name="shokaku" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="azure.lane.solutions.NthDigit.*" />
+          <option name="PATTERN" value="azure.lane.java.proxy.dynamic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -580,12 +456,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="azure.lane.solutions.RotateArray.RotateArray" />
+    <configuration name="ExtendAbstractClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="azure.lane.java.ExtendAbstractClass" />
       <module name="shokaku" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="azure.lane.solutions.RotateArray.*" />
+          <option name="PATTERN" value="azure.lane.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -593,12 +469,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShortestUnsortedContinuousSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="azure.lane.solutions.ShortestUnsortedContinuousSubarray.ShortestUnsortedContinuousSubarray" />
+    <configuration name="ReflectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="azure.lane.java.reflect.ReflectTest" />
       <module name="shokaku" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="azure.lane.solutions.ShortestUnsortedContinuousSubarray.*" />
+          <option name="PATTERN" value="azure.lane.java.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -606,12 +482,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="azure.lane.solutions.ValidPalindrome.ValidPalindrome" />
+    <configuration name="TestClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="azure.lane.java.TestClient" />
       <module name="shokaku" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="azure.lane.solutions.ValidPalindrome.*" />
+          <option name="PATTERN" value="azure.lane.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -620,19 +496,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ValidPalindrome" />
-      <item itemvalue="Application.NthDigit" />
-      <item itemvalue="Application.ShortestUnsortedContinuousSubarray" />
-      <item itemvalue="Application.RotateArray" />
-      <item itemvalue="Application.CountPrimes" />
+      <item itemvalue="Application.ExtendAbstractClass" />
+      <item itemvalue="Application.ReflectTest" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Client2" />
+      <item itemvalue="Application.TestClient" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountPrimes" />
-        <item itemvalue="Application.RotateArray" />
-        <item itemvalue="Application.ShortestUnsortedContinuousSubarray" />
-        <item itemvalue="Application.NthDigit" />
-        <item itemvalue="Application.ValidPalindrome" />
+        <item itemvalue="Application.TestClient" />
+        <item itemvalue="Application.Client2" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.ReflectTest" />
+        <item itemvalue="Application.ExtendAbstractClass" />
       </list>
     </recent_temporary>
   </component>
@@ -652,18 +528,26 @@
       <workItem from="1556429979240" duration="55582000" />
       <workItem from="1557210306182" duration="86667000" />
       <workItem from="1557800973376" duration="20869000" />
-      <workItem from="1557997850079" duration="28275000" />
+      <workItem from="1557997850079" duration="47938000" />
+      <workItem from="1559282563836" duration="1688000" />
+      <workItem from="1560778348809" duration="110000" />
+      <workItem from="1560827488756" duration="291000" />
+      <workItem from="1560828023305" duration="20307000" />
+      <workItem from="1561951481805" duration="1578000" />
+      <workItem from="1562071090955" duration="2255000" />
+      <workItem from="1563253525858" duration="13157000" />
+      <workItem from="1564371763724" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243959000" />
+    <option name="totallyTimeSpent" value="303027000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="23" width="1389" height="877" extended-state="0" />
+    <frame x="-254" y="-1057" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18634002" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12886049" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -673,17 +557,17 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28516623" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.38235295" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24740125" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38235295" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Console" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.38235295" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4996288" weight="0.38235295" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003712" side_tool="true" weight="0.32992327" />
       <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32952183" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -867,11 +751,48 @@
           <properties />
           <option name="timeStamp" value="66" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/azure/lane/solutions/KClosestPointstoOrigin/KClosestPointstoOrigin.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/azure/lane/solutions/KClosestPointstoOrigin/KClosestPointstoOrigin.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>entry.getKey() != arr[i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>entry.getValue() == pat[i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>map.containsKey(arr[i])</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>!map.containsValue(pat[i])</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>!map.containsKey(arr[i])</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>Character.getNumericValue(s.charAt((n - 1) % len));</expression-string>
         <language-id>JAVA</language-id>
@@ -894,410 +815,378 @@
         <custom-info>org.omg.PortableInterceptor.INACTIVE</custom-info>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>x == Integer.MIN_VALUE</expression-string>
-        <language-id>JAVA</language-id>
-        <custom-info>org.omg.PortableInterceptor.INACTIVE</custom-info>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>x</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>Math.abs(Integer.MIN_VALUE)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>Integer.MIN_VALUE</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>x == Integer.MIN_VALUE</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/BalancedBinaryTree/BalancedBinaryTree.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="225">
+          <caret line="621" column="23" lean-forward="true" selection-start-line="621" selection-start-column="23" selection-end-line="621" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/MaximizeDistancetoClosestPerson/MaximizeDistancetoClosestPerson.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/java/TestInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+        <state relative-caret-position="242">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/SearchInsertPosition/SearchInsertPosition.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/java/NewTestInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/SetMismatch/SetMismatch.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/java/TestInterfaceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="17" column="54" lean-forward="true" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+        <state relative-caret-position="132">
+          <caret line="6" column="62" lean-forward="true" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/UglyNumber/UglyNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/java/TestAbstractClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="33" column="33" lean-forward="true" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        <state relative-caret-position="308">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/java/ExtendAbstractClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="677">
-          <caret line="54" column="21" lean-forward="true" selection-start-line="44" selection-start-column="8" selection-end-line="54" selection-end-column="21" />
+        <state relative-caret-position="418">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/LargestNumberAtLeastTwiceofOthers/LargestNumberAtLeastTwiceofOthers.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/java/reflect/ReflectClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="770">
-          <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+        <state relative-caret-position="176">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/ValidPerfectSquare/ValidPerfectSquare.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        <state relative-caret-position="233">
+          <caret line="1780" column="18" selection-start-line="1780" selection-start-column="18" selection-end-line="1780" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/MaximumAverageSubarrayI/MaximumAverageSubarrayI.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/java/reflect/ReflectTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
+        <state relative-caret-position="330">
+          <caret line="15" column="60" lean-forward="true" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/FindModeinBinarySearchTree/FindModeinBinarySearchTree.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/java/proxy/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="53" column="41" selection-start-line="53" selection-start-column="41" selection-end-line="53" selection-end-column="41" />
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/PathSum/PathSum.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/java/proxy/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="54" selection-start-line="33" selection-start-column="54" selection-end-line="33" selection-end-column="54" />
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/FindAllAnagramsinaString/FindAllAnagramsinaString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="44" column="27" selection-start-line="44" selection-start-column="27" selection-end-line="44" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/NumberofSegmentsinaString/NumberofSegmentsinaString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/LinkedListCycle/LinkedListCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4114">
-          <caret line="210" column="12" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/ValidParentheses/ValidParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="53" column="20" lean-forward="true" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/utils/PrintUtils.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/java/proxy/UserServiceProxy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/utils/ListNodeUtils.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state relative-caret-position="233">
+          <caret line="227" column="13" selection-start-line="227" selection-start-column="13" selection-end-line="227" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/PalindromeLinkedList/PalindromeLinkedList.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/java/TestClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="352">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/RemoveLinkedListElements/RemoveLinkedListElements.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/java/proxy/dynamic/LogHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="286">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/MergeSortedArray/MergeSortedArray.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/java/proxy/dynamic/Client2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="726">
-          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        <state relative-caret-position="374">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/MagicSquaresInGrid/MagicSquaresInGrid.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/java/proxy/UserService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/MinimumDepthofBinaryTree/MinimumDepthofBinaryTree.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/reflect/InvocationHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" column="58" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
+        <state relative-caret-position="374">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/ContainsDuplicateII/ContainsDuplicateII.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="35" column="21" selection-start-line="27" selection-start-column="8" selection-end-line="35" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="6204">
+          <caret line="322" column="52" selection-start-line="322" selection-start-column="52" selection-end-line="322" selection-end-column="52" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/ValidMountainArray/ValidMountainArray.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/ThreadLocal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="45" column="44" selection-start-line="38" selection-start-column="8" selection-end-line="45" selection-end-column="44" />
+        <state relative-caret-position="1034">
+          <caret line="73" column="26" selection-start-line="73" selection-start-column="26" selection-end-line="73" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/WordPattern/WordPattern.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/java/threadlocal/ThreadLocalTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="52" column="9" selection-start-line="41" selection-start-column="8" selection-end-line="52" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/PerfectNumber/PerfectNumber.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/AbstractExecutorService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="32" column="26" selection-start-line="21" selection-start-column="8" selection-end-line="32" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="814">
+          <caret line="70" column="60" selection-start-line="70" selection-start-column="60" selection-end-line="70" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/ConstructStringFromBinaryTree/ConstructStringFromBinaryTree.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3124">
+          <caret line="181" column="22" selection-start-line="181" selection-start-column="22" selection-end-line="181" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="145" column="18" lean-forward="true" selection-start-line="145" selection-start-column="18" selection-end-line="145" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8544">
+          <caret line="478" column="24" selection-start-line="478" selection-start-column="24" selection-end-line="478" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="137" column="38" lean-forward="true" selection-start-line="137" selection-start-column="38" selection-end-line="137" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/AbstractMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="968">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <caret line="67" column="22" selection-start-line="67" selection-start-column="22" selection-end-line="67" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/ValidPalindromeII/ValidPalindromeII.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="40" column="20" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="40" selection-end-column="20" />
+        <state relative-caret-position="1276">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/LongestUnivaluePath/LongestUnivaluePath.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Stack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="550">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/IntersectionofTwoLinkedLists/IntersectionofTwoLinkedLists.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/TreeMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="58" column="20" lean-forward="true" selection-start-line="52" selection-start-column="8" selection-end-line="58" selection-end-column="20" />
+        <state relative-caret-position="2442">
+          <caret line="137" column="49" selection-start-line="137" selection-start-column="49" selection-end-line="137" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/LongestCommonPrefix/LongestCommonPrefix.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/HashSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        <state relative-caret-position="1430">
+          <caret line="89" column="13" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/SumofSquareNumbers/SumofSquareNumbers.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Hashtable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="36" column="21" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="36" selection-end-column="21" />
+        <state relative-caret-position="2244">
+          <caret line="130" column="13" selection-start-line="130" selection-start-column="13" selection-end-line="130" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/ReverseInteger/ReverseInteger.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/JapaneseImperialCalendar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="770">
+          <caret line="68" column="6" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/ReachaNumber/ReachaNumber.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/LinkedHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="30" column="40" lean-forward="true" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+        <state relative-caret-position="2992">
+          <caret line="162" column="13" selection-start-line="162" selection-start-column="13" selection-end-line="162" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/LinkedHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2068">
+          <caret line="117" column="13" selection-start-line="117" selection-start-column="13" selection-end-line="117" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="82" column="13" selection-start-line="82" selection-start-column="13" selection-end-line="82" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/PrimalNumberLoop/PrimalNumberLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-133">
+          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/LowestCommonAncestorofDeepestLeaves.java" />
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/NondecreasingArray/NondecreasingArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/LowestCommonAncestorofaBinarySearchTree/LowestCommonAncestorofaBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/LowestCommonAncestorofDeepestLeaves/LowestCommonAncestorofDeepestLeaves.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3916">
+          <caret line="222" column="19" selection-start-line="222" selection-start-column="19" selection-end-line="222" selection-end-column="19" />
           <folding>
-            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#7116#7117#0" expanded="true" />
+            <element signature="e#7150#7151#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/LengthofLastWord/LengthofLastWord.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="27" column="23" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="27" selection-end-column="23" />
+        <state relative-caret-position="21362">
+          <caret line="1023" column="8" selection-start-line="1023" selection-start-column="8" selection-end-line="1023" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/Heaters/Heaters.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="47" column="88" selection-start-line="47" selection-start-column="88" selection-end-line="47" selection-end-column="88" />
+        <state relative-caret-position="82082">
+          <caret line="3804" column="7" selection-start-line="3804" selection-start-column="7" selection-end-line="3804" selection-end-column="7" />
+          <folding>
+            <element signature="e#177353#177354#0" expanded="true" />
+            <element signature="e#177410#177411#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/RepeatedStringMatch/RepeatedStringMatch.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="30" column="18" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="30" selection-end-column="18" />
+        <state relative-caret-position="1034">
+          <caret line="70" column="22" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/Sqrtx/Sqrtx.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/SpiralMatrixIII/SpiralMatrixIII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="38" column="9" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
+        <state relative-caret-position="1430">
+          <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/ImplementstrStr/ImplementstrStr.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/QuickSort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+        <state relative-caret-position="572">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/ReverseBits/ReverseBits.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/IntervalListIntersections/IntervalListIntersections.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="43" column="19" lean-forward="true" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
+        <state relative-caret-position="748">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/CharSequence.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/ConstructBinaryTreefromPreorderandPostorderTraversal/ConstructBinaryTreefromPreorderandPostorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+        <state relative-caret-position="616">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding>
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/FindBottomLeftTreeValue/FindBottomLeftTreeValue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="2237" column="31" selection-start-line="2237" selection-start-column="31" selection-end-line="2237" selection-end-column="31" />
+        <state relative-caret-position="550">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/ValidPalindrome/ValidPalindrome.java">
+    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/MaximumSwap/MaximumSwap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="23" column="28" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/NthDigit/NthDigit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="41" lean-forward="true" selection-start-line="33" selection-start-column="8" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/ShortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/RotateArray/RotateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/KdiffPairsinanArray/KdiffPairsinanArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/ThirdMaximumNumber/ThirdMaximumNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/NondecreasingArray/NondecreasingArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/azure/lane/solutions/CountPrimes/CountPrimes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+        <state relative-caret-position="352">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
         </state>
       </provider>
     </entry>

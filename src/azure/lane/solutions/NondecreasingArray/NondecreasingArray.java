@@ -23,7 +23,17 @@ public class NondecreasingArray {
     public boolean checkPossibility(int[] nums) {
         if(nums == null || nums.length < 3) return true;
         int count = 0;
+        for(int i = 1; i < nums.length && count <= 1; i ++) {
+            if(nums[i - 1] > nums[i]) {
+                count ++;
+                if(i > 2 || nums[i - 2] <= nums[i]) {
+                    nums[i - 1] = nums[i];
+                } else {
+                    nums[i] = nums[i - 1];
+                }
+            }
+        }
 
-        return false;
+        return count <= 1;
     }
 }
